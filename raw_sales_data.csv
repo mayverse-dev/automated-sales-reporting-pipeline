@@ -1,0 +1,73 @@
+TransactionID,Date,Sales Rep,Region,Product,Total Sales,Status
+1001,2024-01-15,John Doe,North,Widget A,"$1,000",Completed
+1002,15/01/2024,jane smith,South,Widget B,500 USD,Pending
+1003,Jan 16 2024,,East,Widget A,,Returned
+1004,2024-01-18,Bob  Brown,north,Widget C,"$2,500",Completed
+1005,2024/01/19,Alice White,West,Widget B,1200,Processing
+1006,2024-01-20,Charlie Green,,Widget A,"$1,500",Completed
+1001,2024-01-15,John Doe,North,Widget A,"$1,000",Completed
+1007,01-21-2024,David Black,South,Widget C,"3,000",Completed
+1008,2024.01.22,Eve   Blue,East,Widget B,$450,Pending
+1009,2024-01-23,Frank White,west,Widget A,2000 USD,Shipped
+,,,,,
+1010,24/01/2024,Grace   Hall,North,Widget C,"$1,200.50",Completed
+1011,Jan 25, 2024,Hank Pym,South,Widget B,,Cancelled
+1012,2024-01-26,Ivy  Green,East,Widget A,"$900",Return
+1013,26/01/2024,Jack Ryan,West,Widget C,1500,Completed
+1014,2024-01-27,kelly clarkson,North,Widget B,"$2,100",Pending
+1005,2024/01/19,Alice White,West,Widget B,1200,Processing
+1015,,Liam Neeson,South,Widget A,"$3,000",Completed
+1016,2024-01-29,Mona Lisa,East,Widget C,4000 USD,Shipped
+1017,30-01-2024,Nathan Drake,West,Widget B,500,Completed
+1018,2024-01-31,Oprah W,,Widget A,"$10,000",Completed
+1019,2024-02-01,peter parker,North,Widget C,"$250",Pending
+1020,02/02/2024,Quinn Fabray,South,Widget B,300 USD,Processing
+,,,,,
+1021,Feb 3 2024,Rachel Green,East,Widget A,,Returned
+1022,2024-02-04,Steve Rogers,west,Widget C,"$5,000",Completed
+1023,2024-02-05,Tony Stark,North,Widget B,"1,000,000",Completed
+1024,06/02/2024,Bruce Banner,South,Widget A,"$500.00",Pending
+1025,2024-02-07,Natasha R,East,Widget C,750,Completed
+1026,2024-02-08,Clint Barton,West,Widget B,"$1,100",Shipped
+1027,2024-02-09,Wanda M,North,Widget A,2200 USD,Completed
+1028,10/02/2024,Vision,,Widget C,3000,Pending
+1029,Feb 11 2024,Sam Wilson,South,Widget B,"$1,400",Processing
+1030,2024-02-12,Bucky Barnes,East,Widget A,5000,Completed
+1031,2024-02-13,Loki,West,Widget C,"$666",Return
+1032,14/02/2024,Thor Odinson,North,Widget B,800 USD,CompletedTransactionID,Date,Sales Rep,Region,Product,Total Sales,Status
+1001,2024-01-15,John Doe,North,Widget A,"$1,000",Completed
+1002,15/01/2024,jane smith,South,Widget B,500 USD,Pending
+1003,Jan 16 2024,,East,Widget A,,Returned
+1004,2024-01-18,Bob  Brown,north,Widget C,"$2,500",Completed
+1005,2024/01/19,Alice White,West,Widget B,1200,Processing
+1006,2024-01-20,Charlie Green,,Widget A,"$1,500",Completed
+1001,2024-01-15,John Doe,North,Widget A,"$1,000",Completed
+1007,01-21-2024,David Black,South,Widget C,"3,000",Completed
+1008,2024.01.22,Eve   Blue,East,Widget B,$450,Pending
+1009,2024-01-23,Frank White,west,Widget A,2000 USD,Shipped
+,,,,,
+1010,24/01/2024,Grace   Hall,North,Widget C,"$1,200.50",Completed
+1011,Jan 25, 2024,Hank Pym,South,Widget B,,Cancelled
+1012,2024-01-26,Ivy  Green,East,Widget A,"$900",Return
+1013,26/01/2024,Jack Ryan,West,Widget C,1500,Completed
+1014,2024-01-27,kelly clarkson,North,Widget B,"$2,100",Pending
+1005,2024/01/19,Alice White,West,Widget B,1200,Processing
+1015,,Liam Neeson,South,Widget A,"$3,000",Completed
+1016,2024-01-29,Mona Lisa,East,Widget C,4000 USD,Shipped
+1017,30-01-2024,Nathan Drake,West,Widget B,500,Completed
+1018,2024-01-31,Oprah W,,Widget A,"$10,000",Completed
+1019,2024-02-01,peter parker,North,Widget C,"$250",Pending
+1020,02/02/2024,Quinn Fabray,South,Widget B,300 USD,Processing
+,,,,,
+1021,Feb 3 2024,Rachel Green,East,Widget A,,Returned
+1022,2024-02-04,Steve Rogers,west,Widget C,"$5,000",Completed
+1023,2024-02-05,Tony Stark,North,Widget B,"1,000,000",Completed
+1024,06/02/2024,Bruce Banner,South,Widget A,"$500.00",Pending
+1025,2024-02-07,Natasha R,East,Widget C,750,Completed
+1026,2024-02-08,Clint Barton,West,Widget B,"$1,100",Shipped
+1027,2024-02-09,Wanda M,North,Widget A,2200 USD,Completed
+1028,10/02/2024,Vision,,Widget C,3000,Pending
+1029,Feb 11 2024,Sam Wilson,South,Widget B,"$1,400",Processing
+1030,2024-02-12,Bucky Barnes,East,Widget A,5000,Completed
+1031,2024-02-13,Loki,West,Widget C,"$666",Return
+1032,14/02/2024,Thor Odinson,North,Widget B,800 USD,Completed
